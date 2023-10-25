@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "ru.mullin.factorialtest"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "ru.mullin.factorialtest"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
